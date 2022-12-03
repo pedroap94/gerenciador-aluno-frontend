@@ -1,0 +1,7 @@
+.itens{
+    display: grid;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    grid-template-columns: 120px;
+    align-items: center;
+}
